@@ -3,6 +3,7 @@
 A lightweight, purely command-line driven GUI wrapper for FFmpeg, written in C#. Born for the ultimate pure command-line experience. 
 为极致纯粹的命令行体验而生的——轻量、原生、极具战术感的 FFmpeg 批处理图形界面。
 
+
 <img width="1079" height="710" alt="FFmpeg-Tactical-Exoskeleton-v1 2" src="https://github.com/user-attachments/assets/351df519-5a2d-48c7-a6cd-9c8e424121fe" />
 
 ## ✨ Features | 核心特性
