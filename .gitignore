@@ -1,0 +1,12 @@
+# Ignore build output directories
+[Bb]in/
+[Oo]bj/
+
+# Ignore Visual Studio cache and user-specific files
+.vs/
+*.user
+*.suo
+*.db
+
+# Ignore locally generated configuration files
+FFmpegGUI.ini
